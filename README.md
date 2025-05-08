@@ -115,13 +115,6 @@ This repository uses a GitHub Actions workflow to:
 
 ---
 
-## Sample Diagram
-
-> *(Add a diagram here if you want – you can use draw.io or Lucidchart)*
-
----
-
-
 ## Acknowledgements
 
 - [AWS ECS Documentation](https://docs.aws.amazon.com/ecs/)
