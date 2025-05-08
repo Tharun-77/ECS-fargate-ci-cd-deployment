@@ -12,6 +12,7 @@ This project demonstrates how to containerize a Node.js application, push it to 
                               [IAM + VPC + ALB + Auto-Scaling]
 ```
 
+![Project Architecture](Project%20Architecture.png)
 ---
 
 ## Features
